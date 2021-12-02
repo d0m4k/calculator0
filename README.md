@@ -1,2 +1,2 @@
-# calculator0
-just test for 1st time
+# calculator_test
+just making a terminal-calculator ......
